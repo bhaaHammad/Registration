@@ -1,0 +1,6 @@
+@Registration_HostAddress = http://localhost:5204
+
+GET {{Registration_HostAddress}}/
+Accept: application/json
+
+###
